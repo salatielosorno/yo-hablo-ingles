@@ -29,7 +29,7 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p> */}
-      <ComingSoonFloating />
+      <ComingSoonFloating imageSrc="/yo-hablo-ingles-light.png" />
     </>
   )
 }
